@@ -1,0 +1,19 @@
+{
+  "world": {
+    "AP": "www.apnews.com",
+    "Reuters": "www.reuters.com",
+    "Al Jazeera": "www.aljazeera.com",
+    "BBC": "www.bbc.com/news"
+  },
+  "national": {
+    "CNN": "www.cnn.com",
+    "Fox News": "www.foxnews.com",
+    "NYT": "www.nytimes.com",
+    "NY Post": "www.nypost.com"
+  },
+  "local": {
+    "KATV": "katv.com",
+    "Sentinal Record": "www.hotsr.com",
+    "Texarkana Gazette": "www.texarkanagazette.com"
+  }
+}

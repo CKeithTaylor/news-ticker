@@ -1,0 +1,3869 @@
+{
+  "success": true,
+  "terms": "https://coinlayer.com/terms",
+  "privacy": "https://coinlayer.com/privacy",
+  "timestamp": 1668108366,
+  "target": "USD",
+  "rates": {
+    "ABC": {
+      "rate": 59.99,
+      "high": 59.99,
+      "low": 59.99,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ACP": {
+      "rate": 0.014931,
+      "high": 0.014931,
+      "low": 0.014931,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ACT": {
+      "rate": 0.00107,
+      "high": 0.0018,
+      "low": 0.00107,
+      "vol": 0,
+      "cap": 512615.77441,
+      "sup": 479080163,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ACT*": {
+      "rate": 0.017178,
+      "high": null,
+      "low": null,
+      "vol": 7.049e-9,
+      "cap": 0,
+      "sup": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ADA": {
+      "rate": 0.364809,
+      "high": 0.400654,
+      "low": 0.31003,
+      "vol": 595974642.243928,
+      "cap": 12307573983.92122,
+      "sup": 33737034952.32086,
+      "change": 0.04531299999999999,
+      "change_pct": 14.182650174024086
+    },
+    "ADCN": {
+      "rate": 0.00013,
+      "high": 0.00013,
+      "low": 0.00013,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ADL": {
+      "rate": 0.01515,
+      "high": 0.025,
+      "low": 0.015,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ADX": {
+      "rate": 0.129599,
+      "high": 0.13196,
+      "low": 0.10779,
+      "vol": 6514132.362635,
+      "cap": 24670284.463838894,
+      "sup": 190358602.0250071,
+      "change": 0.00974599999999999,
+      "change_pct": 8.13162791085746
+    },
+    "ADZ": {
+      "rate": 0.0023,
+      "high": 0.0023,
+      "low": 0.0023,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "AE": {
+      "rate": 0.081281,
+      "high": null,
+      "low": null,
+      "vol": 129908.438353,
+      "cap": 33115997.054478228,
+      "sup": 407426053.49932,
+      "change": 0.0011910000000000115,
+      "change_pct": 1.4870770383318912
+    },
+    "AGI": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": 0,
+      "sup": 539673259.3248987,
+      "change": 0,
+      "change_pct": 0
+    },
+    "AIB": {
+      "rate": 0.005626,
+      "high": 0.0015,
+      "low": 0.005626,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "AIDOC": {
+      "rate": 9.361843e-6,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 7281.433437163011,
+      "sup": 777777777,
+      "change": 8.113059999999999e-7,
+      "change_pct": 9.488363128538008
+    },
+    "AION": {
+      "rate": 0.029246,
+      "high": 0,
+      "low": 0,
+      "vol": 618714.957029,
+      "cap": 14982735.187966,
+      "sup": 512300321,
+      "change": 0.004146,
+      "change_pct": 16.51792828685259
+    },
+    "AIR": {
+      "rate": 0.00792,
+      "high": 0.00792,
+      "low": 0.0075,
+      "vol": 1605.178151,
+      "cap": null,
+      "sup": null,
+      "change": 0.0004099999999999998,
+      "change_pct": 5.459387483355522
+    },
+    "ALT": {
+      "rate": 0.565615,
+      "high": 0.565615,
+      "low": 0.565615,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "AMB": {
+      "rate": 0.010278,
+      "high": 0.011,
+      "low": 0.008,
+      "vol": 450557.309227,
+      "cap": 15417990.573084,
+      "sup": 1500096378,
+      "change": 0.0017740000000000013,
+      "change_pct": 20.860771401693338
+    },
+    "AMM": {
+      "rate": 0.005719,
+      "high": 0.005929,
+      "low": 0.005929,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ANT": {
+      "rate": 1.75085,
+      "high": 1.7899,
+      "low": 1.5801,
+      "vol": 56182.429326,
+      "cap": 69350333.01105477,
+      "sup": 39609522.80952381,
+      "change": 0.05719999999999992,
+      "change_pct": 3.3773211702535897
+    },
+    "APC": {
+      "rate": 0.0017,
+      "high": 0.0017,
+      "low": 0.0017,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "APPC": {
+      "rate": 0.002797,
+      "high": 0.0028,
+      "low": 0.001137,
+      "vol": 15.047622,
+      "cap": 670736.07099484,
+      "sup": 239805531.28167322,
+      "change": 0.00172,
+      "change_pct": 159.702878365831
+    },
+    "ARC": {
+      "rate": 0.0169,
+      "high": 0.0169,
+      "low": 0.004,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ARCT": {
+      "rate": 0.00061,
+      "high": 0.0008,
+      "low": 0.000535,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ARDR": {
+      "rate": 0.073494,
+      "high": 0.0779,
+      "low": 8e-5,
+      "vol": 4369114.604288,
+      "cap": 73420468.88553001,
+      "sup": 998999495,
+      "change": 0.004822000000000007,
+      "change_pct": 7.021784715750242
+    },
+    "ARK": {
+      "rate": 0.405623,
+      "high": 0.53228,
+      "low": 0.53228,
+      "vol": 3282031.844997,
+      "cap": 68563327.77945001,
+      "sup": 169032150.00000003,
+      "change": 0.019371000000000027,
+      "change_pct": 5.015119662810815
+    },
+    "ARN": {
+      "rate": 0.001195,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.000147,
+      "change_pct": 14.026717557251905
+    },
+    "ASAFE2": {
+      "rate": 0.4,
+      "high": 0.4,
+      "low": 0.021,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "AST": {
+      "rate": 0.085229,
+      "high": 0.0908,
+      "low": 0.0616,
+      "vol": 1097185.40755,
+      "cap": 42614500,
+      "sup": 500000000,
+      "change": 0.008738999999999997,
+      "change_pct": 11.425022878807683
+    },
+    "ATB": {
+      "rate": 0.017,
+      "high": 0.026,
+      "low": 0.003,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ATM": {
+      "rate": 2.7,
+      "high": 2.8,
+      "low": 2.7,
+      "vol": 0,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "AURS": {
+      "rate": 0.352867,
+      "high": 0.352867,
+      "low": 0.352867,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "AVT": {
+      "rate": 1.56,
+      "high": 1.74,
+      "low": 1.33,
+      "vol": 269453.0015,
+      "cap": null,
+      "sup": null,
+      "change": 0.17000000000000015,
+      "change_pct": 12.23021582733814
+    },
+    "BAR": {
+      "rate": 4.025,
+      "high": 5.3975,
+      "low": 2.98,
+      "vol": 1489.744,
+      "cap": null,
+      "sup": null,
+      "change": 0.05500000000000016,
+      "change_pct": 1.385390428211591
+    },
+    "BASH": {
+      "rate": 0.0056,
+      "high": 0.0056,
+      "low": 0.0056,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BAT": {
+      "rate": 0.26583,
+      "high": 0.273241,
+      "low": 0.22482,
+      "vol": 26406877.286221,
+      "cap": 398745000,
+      "sup": 1500000000,
+      "change": 0.029612,
+      "change_pct": 12.535877875521765
+    },
+    "BAY": {
+      "rate": 0.0644,
+      "high": 0.001207,
+      "low": 0.066,
+      "vol": 502.124406,
+      "cap": 65182260.7464,
+      "sup": 1012146906,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BBP": {
+      "rate": 0.0005,
+      "high": 0.0005,
+      "low": 0.0005,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BCD": {
+      "rate": 0.1331,
+      "high": 0.13,
+      "low": 0.13,
+      "vol": 218556.498833,
+      "cap": 27269661.099999998,
+      "sup": 204881000,
+      "change": 0.004473000000000005,
+      "change_pct": 3.4774969485411344
+    },
+    "BCH": {
+      "rate": 102.038032,
+      "high": 112.04,
+      "low": 87.009,
+      "vol": 176116143.98857,
+      "cap": 1961707301.9001563,
+      "sup": 19225256.14665085,
+      "change": 11.571861999999996,
+      "change_pct": 12.791369414666272
+    },
+    "BCN": {
+      "rate": 0.000272,
+      "high": 2.5435e-5,
+      "low": 2.1001e-5,
+      "vol": 36981.70042,
+      "cap": 50175143.88048998,
+      "sup": 184467440737.09552,
+      "change": 2.3999999999999987e-5,
+      "change_pct": 9.677419354838705
+    },
+    "BCPT": {
+      "rate": 0.002172,
+      "high": 0,
+      "low": 0,
+      "vol": 0.516986,
+      "cap": 252296.624724,
+      "sup": 116158667,
+      "change": -8.90000000000001e-5,
+      "change_pct": -3.9363113666519283
+    },
+    "BEE": {
+      "rate": 1e-6,
+      "high": 1e-6,
+      "low": 1e-6,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BIO": {
+      "rate": 0.0008,
+      "high": 0.0008,
+      "low": 0.00045,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BLC": {
+      "rate": 0.072132,
+      "high": 0.072132,
+      "low": 0.072132,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BLOCK": {
+      "rate": 0.18,
+      "high": 0.181,
+      "low": 0.18,
+      "vol": 56273.1,
+      "cap": 936557.4128305066,
+      "sup": 5203096.737947259,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BLU": {
+      "rate": 0.00054,
+      "high": 0.00054,
+      "low": 0.00054,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BLZ": {
+      "rate": 0.060289,
+      "high": 0.06175,
+      "low": 0.05297,
+      "vol": 5343746.748482,
+      "cap": 30144500,
+      "sup": 500000000,
+      "change": 0.006561000000000004,
+      "change_pct": 12.21150982727815
+    },
+    "BMC": {
+      "rate": 0.001299,
+      "high": 0.004532,
+      "low": 0.000903,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.00017299999999999998,
+      "change_pct": 15.364120781527529
+    },
+    "BNB": {
+      "rate": 296.761313,
+      "high": 323.0538,
+      "low": 255.5101,
+      "vol": 1338343137.458942,
+      "cap": 48454289373.866486,
+      "sup": 163276974.63,
+      "change": 31.033326999999986,
+      "change_pct": 11.678606934536427
+    },
+    "BNT": {
+      "rate": 0.383032,
+      "high": 0.405959,
+      "low": 0.347,
+      "vol": 5584751.26885,
+      "cap": 72625976.74350655,
+      "sup": 189608118.23426387,
+      "change": 0.026331999999999967,
+      "change_pct": 7.382113821138201
+    },
+    "BOST": {
+      "rate": 0.048,
+      "high": 0.048,
+      "low": 0.048,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BQ": {
+      "rate": 7.775e-5,
+      "high": 7.775e-5,
+      "low": 7.775e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BQX": {
+      "rate": 2.720931,
+      "high": 2.767442,
+      "low": 2.720931,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BRD": {
+      "rate": 0.013488,
+      "high": 0.006428,
+      "low": 0.005,
+      "vol": 0,
+      "cap": 1198580.340384,
+      "sup": 88862718,
+      "change": 0.0009510000000000005,
+      "change_pct": 7.585546781526685
+    },
+    "BRIT": {
+      "rate": 0.03,
+      "high": 0.03,
+      "low": 0.03,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BT1": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BT2": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BTC": {
+      "rate": 17485.663492,
+      "high": 19399.64,
+      "low": 15555,
+      "vol": 26291353933.86036,
+      "cap": 335792058850.8442,
+      "sup": 19203850,
+      "change": 1520.7203279999994,
+      "change_pct": 9.525372639153101
+    },
+    "BTCA": {
+      "rate": 0.00036,
+      "high": 0.00038,
+      "low": 0.00036,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BTCS": {
+      "rate": 0.01201,
+      "high": 0.0003,
+      "low": 0.01201,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BTCZ": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": null,
+      "sup": null,
+      "change": -17719.87,
+      "change_pct": -100
+    },
+    "BTG": {
+      "rate": 15.315486,
+      "high": 16.707,
+      "low": 12.10834,
+      "vol": 16722639.146426,
+      "cap": 292692508.67885435,
+      "sup": 19110886.110885046,
+      "change": 1.75685,
+      "change_pct": 12.95742433088402
+    },
+    "BTLC": {
+      "rate": 9,
+      "high": 9,
+      "low": 9,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BTM": {
+      "rate": 0.078282,
+      "high": 0.080517,
+      "low": 0.07624,
+      "vol": 178200.747835,
+      "cap": 108371445.61849262,
+      "sup": 1384372469.002997,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BTM*": {
+      "rate": 0.122609,
+      "high": null,
+      "low": null,
+      "vol": -6.213e-8,
+      "cap": 172510863,
+      "sup": 1407000000,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BTQ": {
+      "rate": 0.01,
+      "high": 0.002,
+      "low": 0.01,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "BTS": {
+      "rate": 0.008252,
+      "high": 0.00854,
+      "low": 0.00703,
+      "vol": 571987.382136,
+      "cap": 24711052.182625618,
+      "sup": 2994553100.17276,
+      "change": 0.0011300000000000008,
+      "change_pct": 15.866329682673419
+    },
+    "BTX": {
+      "rate": 0.269406,
+      "high": 0.34,
+      "low": 0.27,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": -0.0011340000000000239,
+      "change_pct": -0.4191616766467154
+    },
+    "BURST": {
+      "rate": 0.017348,
+      "high": 0.00019,
+      "low": 0.044444,
+      "vol": 1e-12,
+      "cap": 36636030.968824,
+      "sup": 2111830238,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CALC": {
+      "rate": 0.0006,
+      "high": 0.0006,
+      "low": 0.0006,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CAS": {
+      "rate": 0.007,
+      "high": 0.0085,
+      "low": 0.00692,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CAT": {
+      "rate": 0.114925,
+      "high": 0.00047,
+      "low": 0.00029,
+      "vol": 32694.717323,
+      "cap": 1264117.5375,
+      "sup": 10999500,
+      "change": 0.032377,
+      "change_pct": 39.22202839560014
+    },
+    "CCRB": {
+      "rate": 0.08888,
+      "high": 0.08888,
+      "low": 0.08888,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CDT": {
+      "rate": 0.016576,
+      "high": 0.057,
+      "low": 0.04703,
+      "vol": 0,
+      "cap": 16576000,
+      "sup": 1000000000,
+      "change": 0.001438,
+      "change_pct": 9.499273351829832
+    },
+    "CESC": {
+      "rate": 0.0037,
+      "high": 0.0003,
+      "low": 0.0037,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CHAT": {
+      "rate": 0.00123,
+      "high": 0.00165,
+      "low": 0.0016,
+      "vol": 25091.626566,
+      "cap": 1230000,
+      "sup": 1000000000,
+      "change": 0.0004249999999999999,
+      "change_pct": 52.79503105590061
+    },
+    "CJ": {
+      "rate": 0.000898,
+      "high": 0.000898,
+      "low": 0.000898,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CL": {
+      "rate": 0.028,
+      "high": 0.03,
+      "low": 0.021,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CLD": {
+      "rate": 0.02,
+      "high": 0.02,
+      "low": 0.01,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CLOAK": {
+      "rate": 10,
+      "high": 10,
+      "low": 0.43,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CMT*": {
+      "rate": 0.03954,
+      "high": null,
+      "low": null,
+      "vol": -1.6894e-8,
+      "cap": 39540000,
+      "sup": 1000000000,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CND": {
+      "rate": 0.000404,
+      "high": 0.000504,
+      "low": 0.000463,
+      "vol": 12.291182,
+      "cap": 808000.0018615974,
+      "sup": 2000000004.6079144,
+      "change": -6.399999999999998e-5,
+      "change_pct": -13.675213675213671
+    },
+    "CNX": {
+      "rate": 1.996594,
+      "high": null,
+      "low": null,
+      "vol": 1975389.2804,
+      "cap": 111182990.2818748,
+      "sup": 55686328.959154844,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CPC": {
+      "rate": 0.0005,
+      "high": 0.00051,
+      "low": 0.00019,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CRAVE": {
+      "rate": 0.4,
+      "high": 0.4,
+      "low": 0.4,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CRC": {
+      "rate": 0.08475,
+      "high": 0.1638,
+      "low": 0.015,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CRE": {
+      "rate": 1.316485,
+      "high": 1.316485,
+      "low": 1.316485,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CRW": {
+      "rate": 0.02202,
+      "high": 0.02202,
+      "low": 0.02202,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CTO": {
+      "rate": 0.005,
+      "high": 0.005,
+      "low": 0.005,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "CTR": {
+      "rate": 0.002049,
+      "high": 0.018,
+      "low": 0.017,
+      "vol": 16486.29145,
+      "cap": 208998.00000000003,
+      "sup": 102000000.00000001,
+      "change": 4.100000000000024e-5,
+      "change_pct": 2.041832669322721
+    },
+    "CVC": {
+      "rate": 0.092374,
+      "high": 0.0924,
+      "low": 0.0748,
+      "vol": 9068090.42383,
+      "cap": 92374000,
+      "sup": 1000000000,
+      "change": 0.009257000000000001,
+      "change_pct": 11.13731246315435
+    },
+    "DAS": {
+      "rate": 0.937816,
+      "high": 0.937816,
+      "low": 0.937816,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DASH": {
+      "rate": 36.111611,
+      "high": 38.999999,
+      "low": 28.786,
+      "vol": 24224277.718081,
+      "cap": 397354251.164646,
+      "sup": 11003503.86374748,
+      "change": 3.9195680000000053,
+      "change_pct": 12.175580158115487
+    },
+    "DAT": {
+      "rate": 2.7688912e-5,
+      "high": 0.037,
+      "low": 0.0321,
+      "vol": 0,
+      "cap": 73481.98646822131,
+      "sup": 2653841597.973272,
+      "change": 2.402256000000002e-6,
+      "change_pct": 9.50009364622986
+    },
+    "DATA": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": 0,
+      "sup": 667327371.762932,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DBC": {
+      "rate": 0.000617,
+      "high": null,
+      "low": null,
+      "vol": 137195.90576,
+      "cap": 6170000,
+      "sup": 10000000000,
+      "change": 3.600000000000001e-5,
+      "change_pct": 6.196213425129089
+    },
+    "DBET": {
+      "rate": 0.027656,
+      "high": 0.030283,
+      "low": 0.025656,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DCN": {
+      "rate": 2.4321e-6,
+      "high": 2.8771e-6,
+      "low": 2.1002e-6,
+      "vol": 1572.415309,
+      "cap": 1127578.0450020225,
+      "sup": 463623224785.9967,
+      "change": -4.258000000000002e-7,
+      "change_pct": -14.899051751285915
+    },
+    "DCR": {
+      "rate": 22.355409,
+      "high": 23.9614,
+      "low": 18.370462,
+      "vol": 1665060.932205,
+      "cap": 324027824.2118922,
+      "sup": 14494381.39163064,
+      "change": 3.387428,
+      "change_pct": 17.85866402966135
+    },
+    "DCT": {
+      "rate": 0.00039,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DEEP": {
+      "rate": 0.001,
+      "high": 0.001,
+      "low": 0.001,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DENT": {
+      "rate": 0.000713,
+      "high": 0.00105,
+      "low": 0.000599,
+      "vol": 42944.861858,
+      "cap": 51867783.20269788,
+      "sup": 72745838993.96617,
+      "change": 6.800000000000003e-5,
+      "change_pct": 10.542635658914733
+    },
+    "DGB": {
+      "rate": 0.007446,
+      "high": 0.007767,
+      "low": 0.006141,
+      "vol": 5608656.741244,
+      "cap": 117558727.00301932,
+      "sup": 15788171770.483389,
+      "change": 0.0009339999999999999,
+      "change_pct": 14.342751842751841
+    },
+    "DGD": {
+      "rate": 219.08844,
+      "high": 2136,
+      "low": 122.45003,
+      "vol": 4440.813135,
+      "cap": 16184146.241044922,
+      "sup": 73870.37965601892,
+      "change": 100.24378899999999,
+      "change_pct": 84.34859133878898
+    },
+    "DIM": {
+      "rate": 9.4957e-5,
+      "high": 9.4957e-5,
+      "low": 9.4957e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DIME": {
+      "rate": 3e-5,
+      "high": 0.00012,
+      "low": 1e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DMD": {
+      "rate": 0.58782,
+      "high": 0.60045,
+      "low": 0.58782,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DNT": {
+      "rate": 0.0311,
+      "high": 0.0311,
+      "low": 0.0198,
+      "vol": 587013.575404,
+      "cap": 31100000,
+      "sup": 1000000000,
+      "change": 0.004199999999999999,
+      "change_pct": 15.613382899628247
+    },
+    "DOGE": {
+      "rate": 0.088892,
+      "high": 0.098159,
+      "low": 0.07082,
+      "vol": 1174550112.401135,
+      "cap": 12164476975.900326,
+      "sup": 136845576383.70525,
+      "change": 0.013735999999999998,
+      "change_pct": 18.276651232103887
+    },
+    "DRGN": {
+      "rate": 0.015229,
+      "high": 0,
+      "low": 0,
+      "vol": 1126611.145141,
+      "cap": 6601686.781072999,
+      "sup": 433494437,
+      "change": 0.004324,
+      "change_pct": 39.651535992663916
+    },
+    "DRZ": {
+      "rate": 3,
+      "high": 3,
+      "low": 3,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DSH": {
+      "rate": 252.13175,
+      "high": 255.1725,
+      "low": 246,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "DTA": {
+      "rate": 3.1819842e-5,
+      "high": 0,
+      "low": 0,
+      "vol": 141791.259434,
+      "cap": 41841.19826755767,
+      "sup": 1314940478.5717564,
+      "change": 2.7919019999999983e-6,
+      "change_pct": 9.617981847833496
+    },
+    "EC": {
+      "rate": 50,
+      "high": 50,
+      "low": 50,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "EDG": {
+      "rate": 0.033962,
+      "high": 0.033999,
+      "low": 0.032076,
+      "vol": 1.010971,
+      "cap": 0,
+      "sup": 0,
+      "change": -0.004979999999999998,
+      "change_pct": -12.788249191104716
+    },
+    "EDO": {
+      "rate": 0.394585,
+      "high": 0.18005,
+      "low": 0.14852,
+      "vol": 1.1e-11,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.012055000000000038,
+      "change_pct": 3.151386819334441
+    },
+    "EDR": {
+      "rate": 0.00023,
+      "high": 0.00029,
+      "low": 0.00023,
+      "vol": 0,
+      "cap": 158334.7994396204,
+      "sup": 688412171.4766104,
+      "change": 0,
+      "change_pct": 0
+    },
+    "EKO": {
+      "rate": 6.922228e-5,
+      "high": 0,
+      "low": 0,
+      "vol": 6.042413,
+      "cap": 34611.14,
+      "sup": 500000000,
+      "change": 6.005639999999998e-6,
+      "change_pct": 9.50009364622985
+    },
+    "ELA": {
+      "rate": 1.154,
+      "high": 1.184,
+      "low": 1.115,
+      "vol": 228677.970856,
+      "cap": 28781120.448120475,
+      "sup": 24940312.34672485,
+      "change": -0.0030000000000001137,
+      "change_pct": -0.25929127052723544
+    },
+    "ELF": {
+      "rate": 0.091775,
+      "high": 0.07,
+      "low": 0.07,
+      "vol": 16228849.530596,
+      "cap": 80761999.9987579,
+      "sup": 879999999.9864658,
+      "change": 0.0031679999999999903,
+      "change_pct": 3.575338291557089
+    },
+    "EMC": {
+      "rate": 0.015575,
+      "high": 3,
+      "low": 0.02814,
+      "vol": 20.780182,
+      "cap": 749515.746090014,
+      "sup": 48123001.354094,
+      "change": 0.0013509999999999998,
+      "change_pct": 9.49803149606299
+    },
+    "EMGO": {
+      "rate": 0.43382,
+      "high": 0.43382,
+      "low": 0.43382,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ENG": {
+      "rate": 0.003821,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 573150,
+      "sup": 150000000,
+      "change": 0.0005110000000000002,
+      "change_pct": 15.438066465256803
+    },
+    "ENJ": {
+      "rate": 0.372371,
+      "high": 0.3852,
+      "low": 0.312242,
+      "vol": 35936131.021335,
+      "cap": 372371000,
+      "sup": 1000000000,
+      "change": 0.050690999999999986,
+      "change_pct": 15.758206913703054
+    },
+    "EOS": {
+      "rate": 0.965444,
+      "high": 5.8,
+      "low": 0.7804,
+      "vol": 154690252.842734,
+      "cap": 1033228086.0474695,
+      "sup": 1070210272.2141,
+      "change": 0.13960299999999992,
+      "change_pct": 16.904343572188825
+    },
+    "ERT": {
+      "rate": 0.2054,
+      "high": 0.2054,
+      "low": 0.2054,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ETC": {
+      "rate": 21.4838,
+      "high": 24,
+      "low": 17.754,
+      "vol": 287524045.323538,
+      "cap": 2890950935.2044277,
+      "sup": 134564226.77572998,
+      "change": 3.1317999999999984,
+      "change_pct": 17.065170008718386
+    },
+    "ETH": {
+      "rate": 1279.41948,
+      "high": 1476.9,
+      "low": 1071.5,
+      "vol": 11711103192.213589,
+      "cap": 156567508281.96725,
+      "sup": 122373866.2178,
+      "change": 165.5548799999999,
+      "change_pct": 14.863106341650493
+    },
+    "ETN": {
+      "rate": 0.002329,
+      "high": 0.0022,
+      "low": 0.00205,
+      "vol": 109355.938228,
+      "cap": 41764869.36743392,
+      "sup": 17932533004.48,
+      "change": 0.0001519999999999998,
+      "change_pct": 6.9820854386770685
+    },
+    "ETP": {
+      "rate": 0.021439,
+      "high": 0.044997,
+      "low": 0.0209,
+      "vol": 5908.474142,
+      "cap": 1778212.802432116,
+      "sup": 82942898.56952824,
+      "change": 0.00016400000000000095,
+      "change_pct": 0.7708578143360797
+    },
+    "ETT": {
+      "rate": 2.9,
+      "high": 2.9,
+      "low": 2.9,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "EVR": {
+      "rate": 0.104931,
+      "high": 0.035,
+      "low": 0.035,
+      "vol": 8630.093953,
+      "cap": 47948394.1925695,
+      "sup": 456951655.7792216,
+      "change": 0,
+      "change_pct": 0
+    },
+    "EVX": {
+      "rate": 0.012569,
+      "high": 0.012615,
+      "low": 0.012001,
+      "vol": 1.749378,
+      "cap": 314225,
+      "sup": 25000000,
+      "change": 0.0005560000000000009,
+      "change_pct": 4.628319320735877
+    },
+    "FCT": {
+      "rate": 0.048573,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 508182.1190826373,
+      "sup": 10462234.55587749,
+      "change": -0.0002040000000000028,
+      "change_pct": -0.4182299034381015
+    },
+    "FLP": {
+      "rate": 0.0087,
+      "high": 0.0087,
+      "low": 0.0087,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "FOTA": {
+      "rate": 3.1150026e-5,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": -4.582939999999989e-7,
+      "change_pct": -1.4499157183931284
+    },
+    "FRST": {
+      "rate": 0.78001,
+      "high": 0.89906,
+      "low": 0.72089,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "FUEL": {
+      "rate": 11.843886,
+      "high": 0.014913,
+      "low": 0.007001,
+      "vol": 0,
+      "cap": 1466995.4006060075,
+      "sup": 123860.98621736208,
+      "change": -0.04985399999999984,
+      "change_pct": -0.4191616766467053
+    },
+    "FUN": {
+      "rate": 0.006878,
+      "high": 0.00705,
+      "low": 0.006284,
+      "vol": 892052.828622,
+      "cap": 75282166.65926562,
+      "sup": 10945357176.398026,
+      "change": 0.00046300000000000074,
+      "change_pct": 7.217459080280604
+    },
+    "FUNC": {
+      "rate": 0.00061,
+      "high": 0.00061,
+      "low": 0.00061,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "FUTC": {
+      "rate": 0.004,
+      "high": 0.004,
+      "low": 0.004,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "GAME": {
+      "rate": 2.301921,
+      "high": 0.01946,
+      "low": 0.0172,
+      "vol": 0,
+      "cap": 230192100,
+      "sup": 100000000,
+      "change": 0.32672600000000007,
+      "change_pct": 16.54145540060602
+    },
+    "GAS": {
+      "rate": 2.066858,
+      "high": 2.263926,
+      "low": 1.703,
+      "vol": 6685691.119159,
+      "cap": 28801906.479759693,
+      "sup": 13935116.23912223,
+      "change": 0.18927099999999997,
+      "change_pct": 10.08054486955864
+    },
+    "GBYTE": {
+      "rate": 15.341388,
+      "high": null,
+      "low": null,
+      "vol": 14790.359326,
+      "cap": 12693346.875307208,
+      "sup": 827392.33733657,
+      "change": 1.1176440000000003,
+      "change_pct": 7.857593612483467
+    },
+    "GMX": {
+      "rate": 29.72,
+      "high": 34.68,
+      "low": 24.53,
+      "vol": 155777.73895,
+      "cap": null,
+      "sup": null,
+      "change": 3.299999999999997,
+      "change_pct": 12.490537471612404
+    },
+    "GNO": {
+      "rate": 95.929133,
+      "high": 99.56,
+      "low": 81.72,
+      "vol": 8090.125634,
+      "cap": 144333918.291337,
+      "sup": 1504589.0000000002,
+      "change": 11.115799999999993,
+      "change_pct": 13.106194046164878
+    },
+    "GNT": {
+      "rate": 0.103875,
+      "high": 0.22483,
+      "low": 0.175,
+      "vol": 0,
+      "cap": 12711249498980.094,
+      "sup": 122370632962503.92,
+      "change": 0.014744999999999994,
+      "change_pct": 16.543251430494777
+    },
+    "GNX": {
+      "rate": 0.002514,
+      "high": null,
+      "low": null,
+      "vol": 23600.341955,
+      "cap": 1634100,
+      "sup": 650000000,
+      "change": 5.8000000000000326e-5,
+      "change_pct": 2.361563517915323
+    },
+    "GRC": {
+      "rate": 0.0067,
+      "high": 0.002,
+      "low": 0.0067,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "GRS": {
+      "rate": 10,
+      "high": 10,
+      "low": 0.33162,
+      "vol": 466108588.586,
+      "cap": 721062090,
+      "sup": 72106209,
+      "change": 0,
+      "change_pct": 0
+    },
+    "GRWI": {
+      "rate": 10000,
+      "high": 10000,
+      "low": 10000,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "GTC": {
+      "rate": 1.755683,
+      "high": 1.876,
+      "low": 1.422,
+      "vol": 20399647.90985,
+      "cap": 175568300,
+      "sup": 100000000,
+      "change": 0.3250550000000001,
+      "change_pct": 22.72114064592613
+    },
+    "GTO": {
+      "rate": 0.01369,
+      "high": null,
+      "low": null,
+      "vol": 1041788.944269,
+      "cap": 13690000,
+      "sup": 1000000000,
+      "change": 0.002267,
+      "change_pct": 19.845924888383085
+    },
+    "GUP": {
+      "rate": 0.000471,
+      "high": null,
+      "low": null,
+      "vol": 212.012976,
+      "cap": 46560.77547102,
+      "sup": 98855149.62,
+      "change": 0,
+      "change_pct": 0
+    },
+    "GVT": {
+      "rate": 0.161628,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 711365.0709748019,
+      "sup": 4401248.9851684235,
+      "change": 0,
+      "change_pct": 0
+    },
+    "GXS": {
+      "rate": 0.848331,
+      "high": null,
+      "low": null,
+      "vol": 2729870.353492,
+      "cap": 84833100,
+      "sup": 100000000,
+      "change": 0.11339999999999995,
+      "change_pct": 15.430019961057562
+    },
+    "HAC": {
+      "rate": 0.000432,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "HNC": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "HSR": {
+      "rate": 7.164146,
+      "high": 13.960251,
+      "low": 13.960251,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.6213689999999996,
+      "change_pct": 9.497022441694094
+    },
+    "HST": {
+      "rate": 0.0027,
+      "high": 0.0027,
+      "low": 0.00024,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "HVN": {
+      "rate": 0.03529,
+      "high": 0.03529,
+      "low": 0.00362,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ICN": {
+      "rate": 0.144881,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": -0.0006089999999999984,
+      "change_pct": -0.41858546979173716
+    },
+    "ICOS": {
+      "rate": 17,
+      "high": 17.00001,
+      "low": 3.97987,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ICX": {
+      "rate": 0.168078,
+      "high": 0.17,
+      "low": 0.143593,
+      "vol": 9445923.443143,
+      "cap": 159371788.2795505,
+      "sup": 948201360.5561137,
+      "change": 0.022883000000000014,
+      "change_pct": 15.760184579358805
+    },
+    "IGNIS": {
+      "rate": 0.00435,
+      "high": 0.00813,
+      "low": 0.00795,
+      "vol": 87638.900778,
+      "cap": 4347606.171503912,
+      "sup": 999449694.5986005,
+      "change": 0.00014199999999999977,
+      "change_pct": 3.3745247148288913
+    },
+    "ILC": {
+      "rate": 0.098703,
+      "high": 0.05,
+      "low": 0.05,
+      "vol": 443540.369793,
+      "cap": 34096209.83096967,
+      "sup": 345442487.37089723,
+      "change": 0,
+      "change_pct": 0
+    },
+    "INK": {
+      "rate": 0.000439,
+      "high": 0.00032,
+      "low": 0.00032,
+      "vol": 24859.566376,
+      "cap": 0,
+      "sup": 0,
+      "change": 1.0999999999999996e-5,
+      "change_pct": 2.5700934579439245
+    },
+    "INS": {
+      "rate": 0.106943,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.009267999999999998,
+      "change_pct": 9.488610186844125
+    },
+    "INSN": {
+      "rate": 0.0473,
+      "high": 0.0473,
+      "low": 0.00331,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "INT": {
+      "rate": 0.002694,
+      "high": 0,
+      "low": 0,
+      "vol": 149747.055375,
+      "cap": 2057181.9504554307,
+      "sup": 763616165.7221346,
+      "change": 0.0003690000000000004,
+      "change_pct": 15.870967741935502
+    },
+    "IOP": {
+      "rate": 15.455555,
+      "high": 15.455555,
+      "low": 15.455555,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "IOST": {
+      "rate": 0.009077,
+      "high": 0.009433,
+      "low": 0.007813,
+      "vol": 15763594.995104,
+      "cap": 213698588.1569738,
+      "sup": 23542865281.147274,
+      "change": 0.0010970000000000008,
+      "change_pct": 13.74686716791981
+    },
+    "ITC": {
+      "rate": 0.000124,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 12399.999876,
+      "sup": 99999999,
+      "change": 0,
+      "change_pct": 0
+    },
+    "KCS": {
+      "rate": 8.5,
+      "high": 8.5,
+      "low": 5.99,
+      "vol": 9867980.33157,
+      "cap": 695728836.403172,
+      "sup": 81850451.34154965,
+      "change": 0.5099999999999998,
+      "change_pct": 6.382978723404252
+    },
+    "KICK": {
+      "rate": 0.000324,
+      "high": 0,
+      "low": 0,
+      "vol": 611809.923866,
+      "cap": 253058346.57587475,
+      "sup": 781044279555.169,
+      "change": 0,
+      "change_pct": 0
+    },
+    "KIN": {
+      "rate": 9.942e-6,
+      "high": 1.097e-5,
+      "low": 7.44e-6,
+      "vol": 17144.062487,
+      "cap": 7517127.06736818,
+      "sup": 756098075575.1538,
+      "change": 1.906e-6,
+      "change_pct": 23.718267794922845
+    },
+    "KLC": {
+      "rate": 0.000703,
+      "high": 0.000703,
+      "low": 0.000703,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "KMD": {
+      "rate": 0.193852,
+      "high": 0.193094,
+      "low": 0.177238,
+      "vol": 1074848.737085,
+      "cap": 26123997.552272946,
+      "sup": 134762589.7709229,
+      "change": 0.010165000000000007,
+      "change_pct": 5.53387011601257
+    },
+    "KNC": {
+      "rate": 0.607008,
+      "high": 0.6791,
+      "low": 0.4942,
+      "vol": 26675970.00486,
+      "cap": 135598197.29660404,
+      "sup": 223387825.6902776,
+      "change": 0.10259399999999996,
+      "change_pct": 20.339245143869906
+    },
+    "KRB": {
+      "rate": 6,
+      "high": 6,
+      "low": 0.08001,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "LA": {
+      "rate": 0.049612,
+      "high": null,
+      "low": null,
+      "vol": 296529.150739,
+      "cap": 19844800,
+      "sup": 400000000,
+      "change": 0.005474000000000007,
+      "change_pct": 12.402011871856466
+    },
+    "LEND": {
+      "rate": 0.649242,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": 23540506.088505067,
+      "sup": 36258446.13950586,
+      "change": 0.034480999999999984,
+      "change_pct": 5.60884636468481
+    },
+    "LEO": {
+      "rate": 3.59615,
+      "high": 10.999997,
+      "low": 3.0291,
+      "vol": 97147.85809,
+      "cap": 3594347943.702335,
+      "sup": 999498892.9,
+      "change": 0.05251600000000023,
+      "change_pct": 1.4819814913165477
+    },
+    "LINDA": {
+      "rate": 0.000271,
+      "high": 0.000271,
+      "low": 0.000271,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "LINK": {
+      "rate": 7.14071,
+      "high": 7.49165,
+      "low": 5.7641,
+      "vol": 492508333.241896,
+      "cap": 7140710000,
+      "sup": 1000000000,
+      "change": 0.9253940000000007,
+      "change_pct": 14.888929219367137
+    },
+    "LOC": {
+      "rate": 0.829998,
+      "high": 0.829999,
+      "low": 0.829998,
+      "vol": 0.407551,
+      "cap": null,
+      "sup": null,
+      "change": -1.0000000000287557e-6,
+      "change_pct": -0.00012048207287343186
+    },
+    "LOG": {
+      "rate": 0.060174,
+      "high": 0.0009,
+      "low": 0.060174,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "LRC": {
+      "rate": 0.270513,
+      "high": 0.303,
+      "low": 0.2087,
+      "vol": 78857175.009585,
+      "cap": 371650625.1828715,
+      "sup": 1373873437.4424574,
+      "change": 0.053383000000000014,
+      "change_pct": 24.585732049924015
+    },
+    "LSK": {
+      "rate": 0.7433,
+      "high": 0.804399,
+      "low": 0.61501,
+      "vol": 3873930.99619,
+      "cap": 107643793.9709,
+      "sup": 144818773,
+      "change": 0.054087999999999914,
+      "change_pct": 7.847802998206635
+    },
+    "LTC": {
+      "rate": 58.239939,
+      "high": 63.999999,
+      "low": 47.195,
+      "vol": 417050345.137192,
+      "cap": 4168963824.981319,
+      "sup": 71582558.23347135,
+      "change": 7.4374970000000005,
+      "change_pct": 14.640038366659619
+    },
+    "LUN": {
+      "rate": 0.012287,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 33216.13613691751,
+      "sup": 2703356.0785315786,
+      "change": 0.0010659999999999992,
+      "change_pct": 9.500044559308432
+    },
+    "LUX": {
+      "rate": 2.09e-6,
+      "high": 2.09e-6,
+      "low": 2.09e-6,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "MAID": {
+      "rate": 0.114701,
+      "high": 0.119677,
+      "low": 0.11,
+      "vol": 2569.07712,
+      "cap": 51908214.208812,
+      "sup": 452552412,
+      "change": 0.005726999999999996,
+      "change_pct": 5.255382017728996
+    },
+    "MANA": {
+      "rate": 0.518107,
+      "high": 0.54,
+      "low": 0.447159,
+      "vol": 79337962.603199,
+      "cap": 1136434559.806759,
+      "sup": 2193436027.3201466,
+      "change": 0.05325399999999997,
+      "change_pct": 11.456094722417618
+    },
+    "MCAP": {
+      "rate": 0.005398,
+      "high": 0.005398,
+      "low": 0.005398,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "MCO": {
+      "rate": 3.332652,
+      "high": 3.4,
+      "low": 2.420078,
+      "vol": 218232.578235,
+      "cap": 105270752.80310354,
+      "sup": 31587682.3632061,
+      "change": 0.12625200000000003,
+      "change_pct": 3.937500000000001
+    },
+    "MDA": {
+      "rate": 0.042706,
+      "high": null,
+      "low": null,
+      "vol": 28549.378901,
+      "cap": 838271.290928,
+      "sup": 19628888,
+      "change": 0.002005,
+      "change_pct": 4.926168890199258
+    },
+    "MDS": {
+      "rate": 0.000318,
+      "high": null,
+      "low": null,
+      "vol": 19620.060188,
+      "cap": 636000,
+      "sup": 2000000000,
+      "change": -2.0000000000000486e-6,
+      "change_pct": -0.6250000000000151
+    },
+    "MIOTA": {
+      "rate": 0.23217,
+      "high": 0.23485,
+      "low": 0.19394,
+      "vol": 216.54,
+      "cap": 645323545.8041099,
+      "sup": 2779530283,
+      "change": 0.0011649999999999994,
+      "change_pct": 0.5043180883530657
+    },
+    "MKR": {
+      "rate": 852.69525,
+      "high": 862.708,
+      "low": 627.998,
+      "vol": 5478.164219,
+      "cap": 848635378.860676,
+      "sup": 995238.77828647,
+      "change": 200.15224999999998,
+      "change_pct": 30.672652989917903
+    },
+    "MLN": {
+      "rate": 20.3735,
+      "high": 21.27,
+      "low": 18.109,
+      "vol": 115814.358323,
+      "cap": 16553511.575425403,
+      "sup": 812502.1020161192,
+      "change": 0.8445,
+      "change_pct": 4.324338163756465
+    },
+    "MNX": {
+      "rate": 0.028649,
+      "high": 0.028649,
+      "low": 0.028649,
+      "vol": 113612,
+      "cap": 101638.802174,
+      "sup": 3547726,
+      "change": 0,
+      "change_pct": 0
+    },
+    "MOD": {
+      "rate": 0.176611,
+      "high": null,
+      "low": null,
+      "vol": 106173.570417,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.009476999999999985,
+      "change_pct": 5.67030047746119
+    },
+    "MOIN": {
+      "rate": 0.033073,
+      "high": 0.033073,
+      "low": 0.033073,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "MONA": {
+      "rate": 0.392734,
+      "high": 469.99,
+      "low": 375,
+      "vol": 223865.195995,
+      "cap": 34006051.58083823,
+      "sup": 86587999.97157931,
+      "change": 0.0013530000000000486,
+      "change_pct": 0.3456989480838489
+    },
+    "MTL": {
+      "rate": 0.624236,
+      "high": 0.72,
+      "low": 0.4785,
+      "vol": 14377073.233806,
+      "cap": 41567181.089568004,
+      "sup": 66588888,
+      "change": 0.02465099999999998,
+      "change_pct": 4.1113436793782325
+    },
+    "MTN*": {
+      "rate": 0.009575,
+      "high": null,
+      "low": null,
+      "vol": -1.309403e-6,
+      "cap": 4787500,
+      "sup": 500000000,
+      "change": 0,
+      "change_pct": 0
+    },
+    "MTX": {
+      "rate": 0.001014,
+      "high": 0.001015,
+      "low": 0.001015,
+      "vol": 0,
+      "cap": 318557.49471,
+      "sup": 314159265,
+      "change": -2.0000000000000486e-6,
+      "change_pct": -0.19685039370079221
+    },
+    "NAS": {
+      "rate": 0.02247,
+      "high": null,
+      "low": null,
+      "vol": 113554.769174,
+      "cap": 1771271.7192554495,
+      "sup": 78828291.91168,
+      "change": 0.002059000000000002,
+      "change_pct": 10.08769781000442
+    },
+    "NAV": {
+      "rate": 0.058795,
+      "high": 0.07,
+      "low": 0.07,
+      "vol": 410.363582,
+      "cap": 4399046.837120115,
+      "sup": 74820083.97176826,
+      "change": 0.0020640000000000033,
+      "change_pct": 3.6382224885864933
+    },
+    "NBT": {
+      "rate": 0.00432,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 38817416.160000004,
+      "sup": 8985513000,
+      "change": 0.0003519999999999999,
+      "change_pct": 8.87096774193548
+    },
+    "NDC": {
+      "rate": 0.008989,
+      "high": 0.008989,
+      "low": 0.008989,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "NEBL": {
+      "rate": 1.29714,
+      "high": null,
+      "low": null,
+      "vol": 1516543.992959,
+      "cap": 25492813.58336392,
+      "sup": 19653093.40808542,
+      "change": 0.32165199999999994,
+      "change_pct": 32.973445085946715
+    },
+    "NEO": {
+      "rate": 7.086528,
+      "high": 7.638542,
+      "low": 6,
+      "vol": 25541907.11653,
+      "cap": 708652800,
+      "sup": 100000000,
+      "change": 0.8346340000000003,
+      "change_pct": 13.350098386185055
+    },
+    "NEU": {
+      "rate": 0.024194,
+      "high": 0.035286,
+      "low": 0.004481,
+      "vol": 0,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "NEWB": {
+      "rate": 0.002604,
+      "high": 0.002604,
+      "low": 0.002604,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "NGC": {
+      "rate": 0.032,
+      "high": 0.032,
+      "low": 0.023,
+      "vol": 737.951535,
+      "cap": 1882374.368,
+      "sup": 58824199,
+      "change": 0.009000000000000001,
+      "change_pct": 39.1304347826087
+    },
+    "NKC": {
+      "rate": 0.001145,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "NLC2": {
+      "rate": 0.599935,
+      "high": 0.599935,
+      "low": 0.599935,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "NMC": {
+      "rate": 5.867998,
+      "high": 7.33,
+      "low": 6.012,
+      "vol": 16332.445594,
+      "cap": 86473165.7272,
+      "sup": 14736400,
+      "change": 0,
+      "change_pct": 0
+    },
+    "NMR": {
+      "rate": 11.72455,
+      "high": 12.0422,
+      "low": 10.53,
+      "vol": 3883731.340879,
+      "cap": 128045355.85522926,
+      "sup": 10921131.800813613,
+      "change": -0.31764999999999866,
+      "change_pct": -2.637807045224284
+    },
+    "NULS": {
+      "rate": 0.179903,
+      "high": null,
+      "low": null,
+      "vol": 2037009.725892,
+      "cap": 21771732.470417663,
+      "sup": 121019285.2282489,
+      "change": 0.015674999999999994,
+      "change_pct": 9.544657427478867
+    },
+    "NVC": {
+      "rate": 10,
+      "high": 10,
+      "low": 0.4,
+      "vol": 14126.821766,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "NXT": {
+      "rate": 0.002927,
+      "high": 0.003162,
+      "low": 0.002217,
+      "vol": 3133.79678,
+      "cap": 2924072.789073621,
+      "sup": 998999927.9376907,
+      "change": 5.9999999999999724e-5,
+      "change_pct": 2.0927799093128607
+    },
+    "OAX": {
+      "rate": 0.08,
+      "high": 0.08,
+      "low": 0.066436,
+      "vol": 0,
+      "cap": null,
+      "sup": null,
+      "change": 0.009010000000000004,
+      "change_pct": 12.691928440625446
+    },
+    "OBITS": {
+      "rate": 0.015,
+      "high": 0.015,
+      "low": 0.00308,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "OC": {
+      "rate": 0.000324,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 4.400000000000004e-5,
+      "change_pct": 15.714285714285731
+    },
+    "OCN": {
+      "rate": 7.388709e-5,
+      "high": null,
+      "low": null,
+      "vol": 273995.496798,
+      "cap": 738870.9,
+      "sup": 10000000000,
+      "change": 2.5747500000000044e-6,
+      "change_pct": 3.6105251910118286
+    },
+    "ODN": {
+      "rate": 0.5,
+      "high": 0.5,
+      "low": 0.5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "OK": {
+      "rate": 0.004673,
+      "high": null,
+      "low": null,
+      "vol": 346.922417,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.0004060000000000001,
+      "change_pct": 9.514881649871107
+    },
+    "OMG": {
+      "rate": 1.311449,
+      "high": 1.414049,
+      "low": 1.066417,
+      "vol": 20246930.464838,
+      "cap": 183924687.28318113,
+      "sup": 140245398.24513277,
+      "change": 0.19841700000000007,
+      "change_pct": 17.82671118170907
+    },
+    "OMNI": {
+      "rate": 1.36,
+      "high": 1.52,
+      "low": 1.36,
+      "vol": 21.417828,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ORE": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ORME": {
+      "rate": 1.235715,
+      "high": 0.084498,
+      "low": 0.084498,
+      "vol": 2095553.71589,
+      "cap": 44368344.60357,
+      "sup": 35904998,
+      "change": 0,
+      "change_pct": 0
+    },
+    "OST": {
+      "rate": 0.000395,
+      "high": null,
+      "low": null,
+      "vol": 13351.478811,
+      "cap": 316000,
+      "sup": 800000000,
+      "change": 1.9999999999999944e-6,
+      "change_pct": 0.5089058524173014
+    },
+    "OTN": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "OTX": {
+      "rate": 0.023,
+      "high": 0.023,
+      "low": 0.023,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "OXY": {
+      "rate": 0.0343,
+      "high": 0.036,
+      "low": 0.019,
+      "vol": 1752.284852,
+      "cap": null,
+      "sup": null,
+      "change": 0.015299999999999998,
+      "change_pct": 80.52631578947368
+    },
+    "PART": {
+      "rate": 3.951477,
+      "high": null,
+      "low": null,
+      "vol": 911068.468902,
+      "cap": 31886364.62196,
+      "sup": 8069480,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PAY": {
+      "rate": 0.014867,
+      "high": 0,
+      "low": 0,
+      "vol": 35421.48208,
+      "cap": 3050979.8111875057,
+      "sup": 205218255.94857776,
+      "change": 0.0012799999999999999,
+      "change_pct": 9.420769853536468
+    },
+    "PBT": {
+      "rate": 17.445717,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 2.328588999999999,
+      "change_pct": 15.403646777350824
+    },
+    "PCS": {
+      "rate": 0.019961,
+      "high": 0.019961,
+      "low": 0.019961,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PIVX": {
+      "rate": 0.22375,
+      "high": 45.2,
+      "low": 0.68822,
+      "vol": 988410.108452,
+      "cap": 15788852.873950418,
+      "sup": 70564705.58190131,
+      "change": 0.035527,
+      "change_pct": 18.874951520271168
+    },
+    "PIZZA": {
+      "rate": 0.001,
+      "high": 0.001,
+      "low": 0.001,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PLBT": {
+      "rate": 20,
+      "high": 22.5,
+      "low": 0.9,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PLR": {
+      "rate": 0.0043,
+      "high": 0.0043,
+      "low": 0.0043,
+      "vol": 0,
+      "cap": 977754.6444675528,
+      "sup": 227384801.03896576,
+      "change": 0,
+      "change_pct": 0
+    },
+    "POE": {
+      "rate": 1.73047e-5,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 1.4996400000000011e-6,
+      "change_pct": 9.488353729754909
+    },
+    "POLY": {
+      "rate": 0.191,
+      "high": 0.2349,
+      "low": 0.16,
+      "vol": 641681.4223,
+      "cap": 66546818.210310854,
+      "sup": 348412660.7869678,
+      "change": 0.012300000000000005,
+      "change_pct": 6.883044208170121
+    },
+    "POSW": {
+      "rate": 0.48712,
+      "high": 0.5122,
+      "low": 0.48712,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "POWR": {
+      "rate": 0.1575,
+      "high": 0.169,
+      "low": 0.1116,
+      "vol": 7353639.938004,
+      "cap": 157500000,
+      "sup": 1000000000,
+      "change": 0.03315,
+      "change_pct": 26.658624849215922
+    },
+    "PPC": {
+      "rate": 0.41475,
+      "high": 0.45,
+      "low": 0.41,
+      "vol": 2410.835742,
+      "cap": 10330262.859000001,
+      "sup": 24907204,
+      "change": -0.035250000000000004,
+      "change_pct": -7.833333333333334
+    },
+    "PPT": {
+      "rate": 0.062961,
+      "high": 5.71906,
+      "low": 0.69999,
+      "vol": 43218.957823,
+      "cap": 3352814.660406,
+      "sup": 53252246,
+      "change": 0.0044440000000000035,
+      "change_pct": 7.594374284395994
+    },
+    "PPY": {
+      "rate": 5.45,
+      "high": 6.6205,
+      "low": 0.11111,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PRC": {
+      "rate": 3e-5,
+      "high": 3e-5,
+      "low": 3e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PRES": {
+      "rate": 0.219998,
+      "high": 0.219998,
+      "low": 0.219998,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PRG": {
+      "rate": 0.231004,
+      "high": 0.014,
+      "low": 0.00111,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PRL": {
+      "rate": 0.061361,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 6395276.39527931,
+      "sup": 104223796.797303,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PRO": {
+      "rate": 0.52,
+      "high": 0.5385,
+      "low": 0.4536,
+      "vol": 164542.674062,
+      "cap": 52000000,
+      "sup": 100000000,
+      "change": 0.03750000000000003,
+      "change_pct": 7.772020725388608
+    },
+    "PURA": {
+      "rate": 0.25,
+      "high": 0.25,
+      "low": 0.25,
+      "vol": 1383930,
+      "cap": 43256772.5,
+      "sup": 173027090,
+      "change": 0,
+      "change_pct": 0
+    },
+    "PUT": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "QASH": {
+      "rate": 0.002,
+      "high": 0.01334,
+      "low": 0.002,
+      "vol": 3249.551848,
+      "cap": 2000000,
+      "sup": 1000000000,
+      "change": 0,
+      "change_pct": 0
+    },
+    "QAU": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "QSP": {
+      "rate": 0.01446,
+      "high": 0.01587,
+      "low": 0.01349,
+      "vol": 292149.721735,
+      "cap": 14119356.935124334,
+      "sup": 976442388.3211849,
+      "change": 0.0005600000000000015,
+      "change_pct": 4.028776978417277
+    },
+    "QTUM": {
+      "rate": 2.275571,
+      "high": 2.484634,
+      "low": 1.952615,
+      "vol": 15550138.296605,
+      "cap": 237584114.61398298,
+      "sup": 104406373,
+      "change": 0.2581389999999999,
+      "change_pct": 12.795425075045896
+    },
+    "QUN": {
+      "rate": 0.008318,
+      "high": null,
+      "low": null,
+      "vol": 552962.399845,
+      "cap": 12951126.000000002,
+      "sup": 1557000000,
+      "change": 0,
+      "change_pct": 0
+    },
+    "R": {
+      "rate": 0.010513,
+      "high": 0.01052,
+      "low": 0.01052,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": -2.300000000000045e-5,
+      "change_pct": -0.21829916476841732
+    },
+    "RBIES": {
+      "rate": 1,
+      "high": 1,
+      "low": 1,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "RCN": {
+      "rate": 0.003254,
+      "high": 0.00898,
+      "low": 0.003,
+      "vol": 86827.72835,
+      "cap": 3253813.374486955,
+      "sup": 999942647.35309,
+      "change": 0.0003570000000000001,
+      "change_pct": 12.323092854677258
+    },
+    "RDD": {
+      "rate": 0.000298,
+      "high": 0.00052,
+      "low": 0.00038,
+      "vol": 2.983422,
+      "cap": 9343893.894680532,
+      "sup": 31355348639.867558,
+      "change": 6.999999999999953e-6,
+      "change_pct": 2.4054982817869255
+    },
+    "RDN": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": 0,
+      "sup": 50168936,
+      "change": 0,
+      "change_pct": 0
+    },
+    "RDN*": {
+      "rate": 0.324446,
+      "high": null,
+      "low": null,
+      "vol": -1e-10,
+      "cap": 32444600,
+      "sup": 100000000,
+      "change": 0,
+      "change_pct": 0
+    },
+    "REBL": {
+      "rate": 0.00135,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.00018000000000000004,
+      "change_pct": 15.384615384615389
+    },
+    "REE": {
+      "rate": 1e-5,
+      "high": 1e-5,
+      "low": 1e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "REP": {
+      "rate": 5.481,
+      "high": 5.757,
+      "low": 4.731,
+      "vol": 7000946.127284,
+      "cap": 42022070.32993592,
+      "sup": 7666861.946713359,
+      "change": 0.7299999999999995,
+      "change_pct": 15.365186276573342
+    },
+    "REQ": {
+      "rate": 0.08552,
+      "high": 0.08638,
+      "low": 0.0733,
+      "vol": 2381112.45073,
+      "cap": 85502799.52235436,
+      "sup": 999798871.8703738,
+      "change": -0.004680000000000004,
+      "change_pct": -5.188470066518851
+    },
+    "REV": {
+      "rate": 0.000636,
+      "high": 0.000637,
+      "low": 0.000632,
+      "vol": 59095.558701,
+      "cap": 54099104.89873443,
+      "sup": 85061485689.83401,
+      "change": 3.999999999999989e-6,
+      "change_pct": 0.6329113924050616
+    },
+    "RGC": {
+      "rate": 0.001,
+      "high": 0.001,
+      "low": 0.001,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "RHOC": {
+      "rate": 0.178417,
+      "high": null,
+      "low": null,
+      "vol": 90602.718601,
+      "cap": 66690467.06373172,
+      "sup": 373789869.0356397,
+      "change": 0,
+      "change_pct": 0
+    },
+    "RIYA": {
+      "rate": 0.090025,
+      "high": 0.090025,
+      "low": 0.090025,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "RKC": {
+      "rate": 5,
+      "high": 5,
+      "low": 5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "RLC": {
+      "rate": 0.915033,
+      "high": 0.9467,
+      "low": 0.7725,
+      "vol": 5655881.262921,
+      "cap": 79607674.2558682,
+      "sup": 86999784.9868455,
+      "change": 0.121583,
+      "change_pct": 15.323334803705338
+    },
+    "RPX": {
+      "rate": 0.061017,
+      "high": 0.015435,
+      "low": 0.015435,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "RUFF": {
+      "rate": 0.000199,
+      "high": null,
+      "low": null,
+      "vol": 28264.297738,
+      "cap": 374120,
+      "sup": 1880000000,
+      "change": -4.999999999999986e-6,
+      "change_pct": -2.450980392156856
+    },
+    "SALT": {
+      "rate": 0.768708,
+      "high": null,
+      "low": null,
+      "vol": 2937684.6523,
+      "cap": 63370727.04275999,
+      "sup": 82437970,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SAN": {
+      "rate": 0.074672,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": 6222940.464000001,
+      "sup": 83337000,
+      "change": 0.009570999999999996,
+      "change_pct": 14.701771094146013
+    },
+    "SBC": {
+      "rate": 7,
+      "high": 7,
+      "low": 7,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SC": {
+      "rate": 0.002597,
+      "high": 0.002683,
+      "low": 0.002259,
+      "vol": 4774124.048694,
+      "cap": 136371542.227627,
+      "sup": 52511182991,
+      "change": 0.0002919999999999997,
+      "change_pct": 12.66811279826463
+    },
+    "SENT": {
+      "rate": 0.00044,
+      "high": 0.00044,
+      "low": 0.00044,
+      "vol": 0,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SHIFT": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SIB": {
+      "rate": 5.177,
+      "high": 5.177,
+      "low": 5.177,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SMART": {
+      "rate": 0.000344,
+      "high": 0.000368,
+      "low": 0.0003,
+      "vol": 52809.016871,
+      "cap": 362497.9320926963,
+      "sup": 1053773058.4090009,
+      "change": 3.999999999999989e-6,
+      "change_pct": 1.1764705882352908
+    },
+    "SMLY": {
+      "rate": 6e-5,
+      "high": 3.35e-6,
+      "low": 6e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SMT*": {
+      "rate": 0.011226,
+      "high": null,
+      "low": null,
+      "vol": -3.174e-9,
+      "cap": 35267519.122578,
+      "sup": 3141592653,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SNC": {
+      "rate": 0.021112,
+      "high": 0.020075,
+      "low": 0.020075,
+      "vol": 157468.19425,
+      "cap": 2590600.796853818,
+      "sup": 122707502.6929622,
+      "change": 0.001117,
+      "change_pct": 5.586396599149787
+    },
+    "SNGLS": {
+      "rate": 0.000402,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": 402000,
+      "sup": 1000000000,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SNM": {
+      "rate": 0.174258,
+      "high": null,
+      "low": null,
+      "vol": 472692.271954,
+      "cap": 77370552,
+      "sup": 444000000,
+      "change": 0.03090599999999999,
+      "change_pct": 21.559517830236054
+    },
+    "SNT": {
+      "rate": 0.023117,
+      "high": 0.02431,
+      "low": 0.018861,
+      "vol": 5747961.604614,
+      "cap": 157308183.83265862,
+      "sup": 6804870174.878169,
+      "change": 0.003528,
+      "change_pct": 18.010107713512685
+    },
+    "SPK": {
+      "rate": 0.0084,
+      "high": 0.0084,
+      "low": 0.006,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SRN": {
+      "rate": 0.00225,
+      "high": 0.013333,
+      "low": 0.010634,
+      "vol": 11345.427186,
+      "cap": 1287373.7337428625,
+      "sup": 572166103.8857167,
+      "change": 0.00035399999999999993,
+      "change_pct": 18.670886075949365
+    },
+    "STEEM": {
+      "rate": 0.168515,
+      "high": 0.17629,
+      "low": 0.143,
+      "vol": 6778258.981577,
+      "cap": 70427625.55856411,
+      "sup": 417930899.674,
+      "change": 0.022243999999999986,
+      "change_pct": 15.207389024481943
+    },
+    "STK": {
+      "rate": 0.73,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 365000000,
+      "sup": 500000000,
+      "change": 0,
+      "change_pct": 0
+    },
+    "STORJ": {
+      "rate": 0.331012,
+      "high": 0.35,
+      "low": 0.276246,
+      "vol": 18350941.796302,
+      "cap": 140680099.33798042,
+      "sup": 424999998.00001335,
+      "change": 0.041761999999999966,
+      "change_pct": 14.438029386343981
+    },
+    "STRAT": {
+      "rate": 0.225104,
+      "high": 0.0278,
+      "low": 0.0278,
+      "vol": 191.815349,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.018318,
+      "change_pct": 8.858433356223342
+    },
+    "STU": {
+      "rate": 0.00019,
+      "high": 0.00019,
+      "low": 0.00019,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "STX": {
+      "rate": 0.24115,
+      "high": 0.2509,
+      "low": 0.2134,
+      "vol": 2931558.047707,
+      "cap": 326146838.29,
+      "sup": 1352464600,
+      "change": 0.02754999999999999,
+      "change_pct": 12.89794007490636
+    },
+    "SUB": {
+      "rate": 0.000713,
+      "high": 0.000735,
+      "low": 0.00054,
+      "vol": 112.896001,
+      "cap": 0,
+      "sup": 0,
+      "change": 8.199999999999993e-5,
+      "change_pct": 12.995245641838341
+    },
+    "SUR": {
+      "rate": 0.01,
+      "high": 0.045,
+      "low": 0.01,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "SWFTC": {
+      "rate": 0.001092,
+      "high": 0.001366,
+      "low": 0.001012,
+      "vol": 860374.302103,
+      "cap": 10920000,
+      "sup": 10000000000,
+      "change": -0.0005,
+      "change_pct": -31.407035175879393
+    },
+    "SYS": {
+      "rate": 0.123814,
+      "high": 0.1308,
+      "low": 0.1105,
+      "vol": 1681259.947916,
+      "cap": 83006844.69835986,
+      "sup": 670415661.382072,
+      "change": 0.010900999999999994,
+      "change_pct": 9.654335638943252
+    },
+    "TAAS": {
+      "rate": 10,
+      "high": 10,
+      "low": 0.11116,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TESLA": {
+      "rate": 0.019139,
+      "high": 0.019139,
+      "low": 0.019139,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "THC": {
+      "rate": 0.004846,
+      "high": null,
+      "low": null,
+      "vol": 635.792485,
+      "cap": 0,
+      "sup": 0,
+      "change": -5.3000000000000096e-5,
+      "change_pct": -1.0818534394774464
+    },
+    "THETA": {
+      "rate": 0.98751,
+      "high": 1.0314,
+      "low": 0.852683,
+      "vol": 44635864.615803,
+      "cap": 987510000,
+      "sup": 1000000000,
+      "change": 0.09894099999999995,
+      "change_pct": 11.134869661219325
+    },
+    "THS": {
+      "rate": 0.00171,
+      "high": 0.00172,
+      "low": 0.00021,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TIO": {
+      "rate": 0.085,
+      "high": 0.09128,
+      "low": 0.07787,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TKN": {
+      "rate": 0,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TKY": {
+      "rate": 0.000171,
+      "high": null,
+      "low": null,
+      "vol": 1.18151e-7,
+      "cap": 0,
+      "sup": 0,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TNB": {
+      "rate": 0.000551,
+      "high": 0,
+      "low": 0,
+      "vol": 163837.440857,
+      "cap": 2432030.4927644986,
+      "sup": 4413848444.218691,
+      "change": 0.00014399999999999992,
+      "change_pct": 35.38083538083536
+    },
+    "TNT": {
+      "rate": 0.003,
+      "high": 0.009967,
+      "low": 0.008342,
+      "vol": 0,
+      "cap": 3000000,
+      "sup": 1000000000,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TOA": {
+      "rate": 0.002397,
+      "high": 0.002397,
+      "low": 0.002397,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TRC": {
+      "rate": 6.2,
+      "high": 6.2,
+      "low": 6.2,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TRIG": {
+      "rate": 0.34265,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.029728000000000032,
+      "change_pct": 9.500131023066462
+    },
+    "TRST": {
+      "rate": 0.04799,
+      "high": 0.04799,
+      "low": 0.00344,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TRUMP": {
+      "rate": 0.055,
+      "high": 0.055,
+      "low": 0.055,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "TRX": {
+      "rate": 0.058622,
+      "high": 0.065,
+      "low": 0.05243,
+      "vol": 538392303.801333,
+      "cap": 5405861047.442714,
+      "sup": 92215568343.67155,
+      "change": 0.0038899999999999976,
+      "change_pct": 7.107359497186285
+    },
+    "UBQ": {
+      "rate": 0.028381,
+      "high": 0.03704,
+      "low": 0.03564,
+      "vol": 406.314158,
+      "cap": 1382956.6244369023,
+      "sup": 48728255.679394744,
+      "change": 0.0016719999999999999,
+      "change_pct": 6.260062151334756
+    },
+    "UNO": {
+      "rate": 13.4,
+      "high": 13.4,
+      "low": 13,
+      "vol": 63801.518067,
+      "cap": 2678392,
+      "sup": 199880,
+      "change": 0,
+      "change_pct": 0
+    },
+    "UNRC": {
+      "rate": 6e-5,
+      "high": 6e-5,
+      "low": 3e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "UQC": {
+      "rate": 8,
+      "high": 8.201,
+      "low": 8,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "USDT": {
+      "rate": 1.01121,
+      "high": 1.15,
+      "low": 0.91,
+      "vol": 3059651747.888032,
+      "cap": 69264970328.46364,
+      "sup": 68497117639.72235,
+      "change": -0.0023260000000000502,
+      "change_pct": -0.22949357496922165
+    },
+    "UTK": {
+      "rate": 0.103028,
+      "high": 0.109178,
+      "low": 0.090284,
+      "vol": 2584485.52307,
+      "cap": 51514000,
+      "sup": 500000000,
+      "change": 0.009724999999999998,
+      "change_pct": 10.423030342004006
+    },
+    "UTT": {
+      "rate": 0.040001,
+      "high": 0.040001,
+      "low": 0.040001,
+      "vol": 13.135985,
+      "cap": 1493710.94184,
+      "sup": 37341840,
+      "change": 0,
+      "change_pct": 0
+    },
+    "VEE": {
+      "rate": 0.0029,
+      "high": 0.003039,
+      "low": 0.0029,
+      "vol": 29,
+      "cap": 0,
+      "sup": 0,
+      "change": -0.00013900000000000023,
+      "change_pct": -4.573872984534394
+    },
+    "VEN": {
+      "rate": 2.410199,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.209044,
+      "change_pct": 9.497014067614503
+    },
+    "VERI": {
+      "rate": 23.736235,
+      "high": 18.6,
+      "low": 17.16188,
+      "vol": 125722.510551,
+      "cap": 51024502.62281,
+      "sup": 2149646,
+      "change": 0,
+      "change_pct": 0
+    },
+    "VIA": {
+      "rate": 0.036515,
+      "high": null,
+      "low": null,
+      "vol": 2294.166213,
+      "cap": 846234.2701248823,
+      "sup": 23174976.588385113,
+      "change": 0.004590999999999998,
+      "change_pct": 14.381029946122032
+    },
+    "VIB": {
+      "rate": 0.050092,
+      "high": 0.055,
+      "low": 0.04,
+      "vol": 1095849.690849,
+      "cap": 10018400,
+      "sup": 200000000,
+      "change": 0.008414999999999999,
+      "change_pct": 20.19099263382681
+    },
+    "VIBE": {
+      "rate": 0.001211,
+      "high": null,
+      "low": null,
+      "vol": 141.702478,
+      "cap": 323337,
+      "sup": 267000000,
+      "change": -0.00021100000000000003,
+      "change_pct": -14.838255977496484
+    },
+    "VOISE": {
+      "rate": 0.00018,
+      "high": 0.00018,
+      "low": 6e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "VOX": {
+      "rate": 0.412696,
+      "high": null,
+      "low": null,
+      "vol": 1e-12,
+      "cap": 62003.74917750655,
+      "sup": 150240.73210669972,
+      "change": 0.04710799999999998,
+      "change_pct": 12.885543289167034
+    },
+    "VRS": {
+      "rate": 0.1375,
+      "high": 0.21,
+      "low": 0.108,
+      "vol": 2761111.70074,
+      "cap": 7331459.437500001,
+      "sup": 53319705,
+      "change": 0,
+      "change_pct": 0
+    },
+    "VTC": {
+      "rate": 0.163884,
+      "high": null,
+      "low": null,
+      "vol": 15740.220584,
+      "cap": 10721846.243115354,
+      "sup": 65423386.31663466,
+      "change": 0.022437000000000012,
+      "change_pct": 15.862478525525473
+    },
+    "VUC": {
+      "rate": 9.9e-5,
+      "high": 9.9e-5,
+      "low": 9.9e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "WABI": {
+      "rate": 0.063021,
+      "high": 0.067,
+      "low": 0.055,
+      "vol": 1008849.910874,
+      "cap": 6302099.999999999,
+      "sup": 100000000,
+      "change": -0.002939000000000011,
+      "change_pct": -4.455730745906626
+    },
+    "WAVES": {
+      "rate": 2.507753,
+      "high": 2.73904,
+      "low": 2.05206,
+      "vol": 73697446.659535,
+      "cap": 275403711.49972403,
+      "sup": 109820908,
+      "change": 0.36495999999999995,
+      "change_pct": 17.031976490496277
+    },
+    "WAX": {
+      "rate": 0.06122,
+      "high": 0.061987,
+      "low": 0.061648,
+      "vol": 1038.731224,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.008939999999999997,
+      "change_pct": 17.100229533282317
+    },
+    "WC": {
+      "rate": 0.045,
+      "high": 0.045,
+      "low": 0.045,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "WGR": {
+      "rate": 0.005106,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 1264622.0243944747,
+      "sup": 247673721.9730659,
+      "change": 0.0006810000000000002,
+      "change_pct": 15.389830508474581
+    },
+    "WINGS": {
+      "rate": 0.004153,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 415299.99999999994,
+      "sup": 100000000,
+      "change": 0.00035999999999999964,
+      "change_pct": 9.491167940943834
+    },
+    "WLK": {
+      "rate": 0.0058,
+      "high": 0.0058,
+      "low": 0.0058,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "WOP": {
+      "rate": 0.046453,
+      "high": 0.046453,
+      "low": 0.046453,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "WPR": {
+      "rate": 0.004672,
+      "high": 0,
+      "low": 0,
+      "vol": 0,
+      "cap": 3481799.511428129,
+      "sup": 745248183.0967742,
+      "change": 0.000405,
+      "change_pct": 9.49144598078275
+    },
+    "WRC": {
+      "rate": 0.000296,
+      "high": 0.0025,
+      "low": 0.0025,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 0.00020664,
+      "change_pct": 231.24440465532678
+    },
+    "WTC": {
+      "rate": 0.196567,
+      "high": 0,
+      "low": 0,
+      "vol": 912274.76037,
+      "cap": 5283490.417414279,
+      "sup": 26878827.155190237,
+      "change": 0.030735999999999986,
+      "change_pct": 18.53453214417086
+    },
+    "XAUR": {
+      "rate": 0.10301,
+      "high": 0.10301,
+      "low": 0.10301,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "XBP": {
+      "rate": 0.0027,
+      "high": 0.0027,
+      "low": 0.0027,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "XBY": {
+      "rate": 0.2889,
+      "high": 0.2889,
+      "low": 0.2889,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "XCP": {
+      "rate": 3.776941,
+      "high": null,
+      "low": null,
+      "vol": 1971.563021,
+      "cap": 9813696.436957873,
+      "sup": 2598318.70208136,
+      "change": 0.32768299999999995,
+      "change_pct": 9.500101181181575
+    },
+    "XCXT": {
+      "rate": 0.095658,
+      "high": 0.095658,
+      "low": 0.095658,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "XDN": {
+      "rate": 8.0507391e-5,
+      "high": 8.1999e-5,
+      "low": 7.1219e-5,
+      "vol": 6212.600037,
+      "cap": 653177.3845350647,
+      "sup": 8113259868.712733,
+      "change": 9.326891000000003e-6,
+      "change_pct": 13.103154656120712
+    },
+    "XEM": {
+      "rate": 0.03467,
+      "high": 0.03971,
+      "low": 0.028,
+      "vol": 7993490.661704,
+      "cap": 312029999.96533,
+      "sup": 8999999999,
+      "change": 0.0033429999999999988,
+      "change_pct": 10.671305902256835
+    },
+    "XGB": {
+      "rate": 0.0015,
+      "high": 0.0015,
+      "low": 0.0015,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "XHI": {
+      "rate": 0.001325,
+      "high": 0.001325,
+      "low": 0.001325,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "XID": {
+      "rate": 0.010924,
+      "high": 0.010924,
+      "low": 0.010924,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "XLM": {
+      "rate": 0.097272,
+      "high": 0.105956,
+      "low": 0.079431,
+      "vol": 110478570.280269,
+      "cap": 4863773877.846463,
+      "sup": 50001787542.62751,
+      "change": 0.013603000000000004,
+      "change_pct": 16.258112323560702
+    },
+    "XMR": {
+      "rate": 131.45135,
+      "high": 134.6954,
+      "low": 114.97,
+      "vol": 89488202.692225,
+      "cap": 2392273202.9428883,
+      "sup": 18198924.567476016,
+      "change": 12.070699999999988,
+      "change_pct": 10.111102594934763
+    },
+    "XNC": {
+      "rate": 0.00018,
+      "high": 0.00018,
+      "low": 0.00018,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "XRB": {
+      "rate": 16.330385,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": 2.182948999999999,
+      "change_pct": 15.429997350756693
+    },
+    "XRP": {
+      "rate": 0.383883,
+      "high": 0.416734,
+      "low": 0.31451,
+      "vol": 1320144705.765975,
+      "cap": 38384166793.54416,
+      "sup": 99989233161,
+      "change": 0.05053599999999997,
+      "change_pct": 15.160178432684251
+    },
+    "XTO": {
+      "rate": 0.324858,
+      "high": 0.324858,
+      "low": 0.324858,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "XTZ": {
+      "rate": 1.131387,
+      "high": 1.1637,
+      "low": 0.9609,
+      "vol": 29240413.063749,
+      "cap": 1060293268.2469938,
+      "sup": 937162322.217768,
+      "change": 0.10876999999999981,
+      "change_pct": 10.63643573302613
+    },
+    "XUC": {
+      "rate": 0.00347,
+      "high": 0.0035,
+      "low": 0.00335,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 9.999999999999983e-5,
+      "change_pct": 2.967359050445099
+    },
+    "XVG": {
+      "rate": 0.002572,
+      "high": 0.0027,
+      "low": 0.0021,
+      "vol": 1725251.191815,
+      "cap": 42473798.70433124,
+      "sup": 16513918625.323189,
+      "change": 0.00041600000000000014,
+      "change_pct": 19.294990723562158
+    },
+    "XZC": {
+      "rate": 4.96985,
+      "high": 4.83541,
+      "low": 3.38435,
+      "vol": 1605595.479191,
+      "cap": 54305097.84767003,
+      "sup": 10926908.829777565,
+      "change": 0,
+      "change_pct": 0
+    },
+    "YEE": {
+      "rate": 7.1222964e-5,
+      "high": null,
+      "low": null,
+      "vol": 23292.020641,
+      "cap": 712229.64,
+      "sup": 10000000000,
+      "change": 3.086964000000001e-6,
+      "change_pct": 4.530591757661149
+    },
+    "YOC": {
+      "rate": 0.00012,
+      "high": 0.00028,
+      "low": 5e-5,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "YOYOW": {
+      "rate": 0.001274,
+      "high": 0,
+      "low": 0,
+      "vol": 23049.632238,
+      "cap": 2548000,
+      "sup": 2000000000,
+      "change": 2.9999999999999862e-5,
+      "change_pct": 2.4115755627009534
+    },
+    "ZBC": {
+      "rate": 0.009184,
+      "high": 0.01034,
+      "low": 0.008183,
+      "vol": 9099.48944,
+      "cap": null,
+      "sup": null,
+      "change": -7.799999999999994e-5,
+      "change_pct": -0.8421507233858773
+    },
+    "ZCL": {
+      "rate": 0.27694,
+      "high": null,
+      "low": null,
+      "vol": 0,
+      "cap": 0,
+      "sup": 0,
+      "change": -0.0011660000000000004,
+      "change_pct": -0.4192645969522413
+    },
+    "ZEC": {
+      "rate": 39.364339,
+      "high": 41.740513,
+      "low": 33.1562,
+      "vol": 35826260.396063,
+      "cap": 510678542.44127506,
+      "sup": 12973126.32231104,
+      "change": 4.0087019999999995,
+      "change_pct": 11.338225924199865
+    },
+    "ZEN": {
+      "rate": 10.275713,
+      "high": 10.94,
+      "low": 8.89308,
+      "vol": 9750699.08528,
+      "cap": 133842510.51233125,
+      "sup": 13025131.25,
+      "change": 1.0482230000000001,
+      "change_pct": 11.35978473019207
+    },
+    "ZIL": {
+      "rate": 0.023719,
+      "high": 0.025996,
+      "low": 0.019437,
+      "vol": 52455588.340925,
+      "cap": 398696964.4556763,
+      "sup": 16809181013.351166,
+      "change": 0.0030880000000000005,
+      "change_pct": 14.967766952644082
+    },
+    "ZNY": {
+      "rate": 0.02,
+      "high": 5.11e-6,
+      "low": 0.02,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "ZRX": {
+      "rate": 0.193221,
+      "high": 0.206316,
+      "low": 0.159732,
+      "vol": 81048.102473,
+      "cap": 144994435.7001513,
+      "sup": 750407231.6163942,
+      "change": 0.028189999999999993,
+      "change_pct": 17.081639207179254
+    },
+    "ZSC": {
+      "rate": 7.001e-5,
+      "high": 7.001e-5,
+      "low": 7.001e-5,
+      "vol": 0.040374,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    },
+    "611": {
+      "rate": 0.389165,
+      "high": 0.389165,
+      "low": 0.389165,
+      "vol": null,
+      "cap": null,
+      "sup": null,
+      "change": 0,
+      "change_pct": 0
+    }
+  }
+}
