@@ -7,20 +7,22 @@ class Headline:
     def __init__(self, api):
         self.api = api
 
-    def get_headlines():
-        source = {
-            "AP": "www.apnews.com",
-            "KATV": "katv.com",
-            "Reuters": "reuters.com",
-            "BBC": "www.bbc.com",
-            "Al Jazeera": "www.aljazeera.com",
-        }
+    def get_news():
         api = config.news_api["world_news"]
         data = requests.get(f'{api["url"]}&{api["key"]}')
         data = data.json()
         json_file = json.dumps(data)
         with open("data/headlines.json", "w") as f:
             f.write(json_file)
+
+    def local():
+        ...
+
+    def national():
+        ...
+
+    def world():
+        ...
 
 
 class Currency:
