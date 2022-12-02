@@ -9,10 +9,19 @@ class Headline:
 
     def get_news():
         api = config.news_api["world_news"]
-        data = requests.get(f'{api["url"]}&{api["key"]}')
-        data = data.json()
-        json_file = json.dumps(data)
-        with open("data/headlines.json", "w") as f:
+
+        with open("data/news_sources.json") as json_file:
+            data = json.load(json_file)
+            links = list(data.values())
+
+        url = f"{api['url']}url={links}&analyze=TRUE"
+        headers = {"apikey": api["key"]}
+        payload = {}
+
+        api_return = requests.get(url, headers=headers, data=payload)
+        api_data = api_return.json()
+        json_file = json.dumps(api_data)
+        with open("data/news.json", "w") as f:
             f.write(json_file)
 
     def local():
@@ -44,3 +53,23 @@ class Currency:
 class Weather:
     def __init__(self, api):
         self.api = api
+
+    def get_forecast(self):
+        params = {"access_key": self.api["key"], "query": "71913", "units": "f"}
+        url = f"{self.api['url']}forecast"
+        outfile = "data/forecast.json"
+        api_return = requests.get(url, params)
+        api_data = api_return.json()
+        json_file = json.dumps(api_data)
+        with open(outfile, "w") as f:
+            f.write(json_file)
+
+    def get_current(self):
+        params = {"access_key": self.api["key"], "query": "71913", "units": "f"}
+        url = f"{self.api['url']}current"
+        outfile = "data/current_weather.json"
+        api_return = requests.get(url, params)
+        api_data = api_return.json()
+        json_file = json.dumps(api_data)
+        with open(outfile, "w") as f:
+            f.write(json_file)
